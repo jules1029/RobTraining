@@ -1,7 +1,4 @@
-/* line 2, stdin */
-.foo .bar {
-  margin: 10px; }
-
-/* line 4, stdin */
-h1 {
-  font-size: 12px; }
+@media (min-width: 720px) {
+  /* line 2, C:/Users/Sarah/Desktop/BookManager/src/styles/app/login.scss */
+  .login {
+    margin: 0 auto; } }
