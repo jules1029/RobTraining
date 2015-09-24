@@ -1,0 +1,32 @@
+{
+  "name": "BookManager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "angular": "^1.4.5",
+    "bootstrap": "^3.3.5",
+    "browser-sync": "^2.9.1",
+    "gulp": "^3.9.0",
+    "gulp-filter": "^3.0.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-util": "^3.0.6",
+    "jquery": "^2.1.4",
+    "opn": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jules1029/RobTraining.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jules1029/RobTraining/issues"
+  },
+  "homepage": "https://github.com/jules1029/RobTraining#readme"
+}
